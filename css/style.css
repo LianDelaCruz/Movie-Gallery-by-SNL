@@ -91,3 +91,8 @@ nav a {
     flex-direction: column;
     flex-wrap: nowrap;
 }
+
+.recommend img {
+    max-width: 50%;
+    margin: 0rem 20rem 0rem 20rem;;
+}
