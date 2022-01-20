@@ -91,3 +91,21 @@ nav a {
     flex-direction: column;
     flex-wrap: nowrap;
 }
+
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn {
+    width: 50%;
+    height: 2rem;
+    margin-top: 1em;
+    font-size: 1em;
+    border-radius: 5px;
+}
+
+.info {
+    margin-top: 10rem;
+}
