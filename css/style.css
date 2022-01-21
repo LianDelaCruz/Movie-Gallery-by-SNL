@@ -120,6 +120,13 @@ nav a {
 .recommend img {
     max-width: 50%;
     margin: 0rem 20rem 0rem 20rem;
+    border: 2px solid white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px white;
+}
+
+.recommend img:hover {
+    opacity: 0.8;
 }
 
 form {
